@@ -1,0 +1,7 @@
+@import url("https://rawgit.com/allanelectrobrasil/ebcustom/master/alter.css");
+
+#room-bar .icon-room {
+    background: url(http://i.imgur.com/Q8leNK0.png);
+    width: 31px;
+    height: 31px;
+}
