@@ -11,18 +11,6 @@
             "allowShowingMehs":     true,
             "forceSmartVote":       false
 	},
-	"ccc": {
-	    "ambassador": "#89be6c !important",
-	    "bouncer": "null",
-	    "cohost": null,
-	    "rdj": null,
-	    "host": null,
-	    "manager": null,
-	    "admin": null,
-	    "subscriber": null,
-	    "friend": null,
-	    "user": null
-	},
 	"images": {
 	    "background": "http://i.imgur.com/q6Jtusl.png",
 	    "playback": null,
