@@ -1,13 +1,6 @@
-/*.room-background {
-    background: url(https://cdn.radiant.dj/rcs/radiant.music.nov1.jpg) no-repeat !important;
-    width: 500% !important;
-    height: 500% !important;
-}*/
-
 #user-lists .list .user .name {
     color: null;
 }
-
 #user-lists .list.staff .group {
     background: linear-gradient(to right,rgba(0, 0, 0, 0) 0,rgba(0, 0, 0, 1) 100%) !important;
 }
