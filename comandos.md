@@ -31,6 +31,7 @@ Coordenador
 |!usercommands | | ativa/desativa comandos de usuarios cinzas |
 |!setslots | X ou easy/normal/hard | para mudar a posição ou a dificuldade do slots |
 |!setduel | X | para alterar o tempo de mute do duel |
+|!msgint | X ou on/off | para alterar o tempo de intervalo das músicas ou o estado das mensagens intervaladas |
 
 Segurança+
 --------
