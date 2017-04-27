@@ -101,7 +101,7 @@ Usuario
 |:------:|:---------:|:--------------------------------------:|
 |!autowoot | | coloca o link do autowoot que recomendamos |
 |!ba | | explica sobre o que é um BA  |
-|!commands | | mostra o link dos comandos |
+|!comandos | | mostra o link dos comandos |
 |!cookie| @usuario | dá um cookie para o usuario |
 |!sacanagem | @usuario | sacaneia um usuario |
 |!amorzinho | @usuario | manda uma frase de amor para um usuario |
