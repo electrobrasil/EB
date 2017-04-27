@@ -31,7 +31,7 @@ Coordenador
 |!usercommands | | ativa/desativa comandos de usuarios cinzas |
 |!setslots | X ou easy/normal/hard | para mudar a posição ou a dificuldade do slots |
 |!setduel | X | para alterar o tempo de mute do duel |
-|!msgint | X ou on/off | para alterar o tempo de intervalo das músicas ou o estado das mensagens intervaladas |
+|!msginterval | X ou on/off | para alterar o tempo de intervalo das músicas ou o estado das mensagens intervaladas |
 
 Segurança+
 --------
@@ -120,7 +120,7 @@ Usuario
 |!op | | link das mais tocadas  |
 |!ping | | pong! |
 |!regras | | link das regras |
-|!theme | | link do tema da sala |
+|!tema | | mostra o tema atual da sala |
 |!site | | link do site da sala |
 |!yt | | link do canal do youtube da sala |
 |!staff | | link para inscrição para entrar na staff |
