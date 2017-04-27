@@ -1,8 +1,8 @@
 Comandos do EBbot:
 =========
 
-X especifique um numero
-algo entre ( ) são opicionais
+X especifique um numero,
+algo entre ( ) são opicionais e
 @ para menção
 
 Hosts
