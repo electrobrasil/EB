@@ -3,6 +3,7 @@ Comandos do EBbot:
 
 X especifique um numero
 algo entre ( ) são opicionais
+@ para menção
 
 Hosts
 -------
@@ -10,6 +11,7 @@ Hosts
 |Comando | Argumento |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
 |!roulettepos | X | define a posição que a roleta moverá o ganhador |
+|!cleardb | | limpa o banco de dados local do bot e o restaura.|
 
 
 Coordenador
@@ -27,6 +29,8 @@ Coordenador
 |!refresh | | recarrega o bot |
 |!usercmdcd | X | coloca um delay para comando de usuarios cinzas |
 |!usercommands | | ativa/desativa comandos de usuarios cinzas |
+|!setslots | X ou easy/normal/hard | para mudar a posição ou a dificuldade do slots |
+|!setduel | X | para alterar o tempo de mute do duel |
 
 Segurança+
 --------
@@ -94,7 +98,7 @@ Usuario
 
 |Comando | Argumentos |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
-|!autowoot | | coloca o link autowoot que recomendamos |
+|!autowoot | | coloca o link do autowoot que recomendamos |
 |!ba | | explica sobre o que é um BA  |
 |!commands | | mostra o link dos comandos |
 |!cookie| @usuario | dá um cookie para o usuario |
@@ -102,8 +106,10 @@ Usuario
 |!amorzinho | @usuario | manda uma frase de amor para um usuario |
 |!castigar | @usuario | castiga um usuário |
 |!dclookup / !dc | | usa o dc em si mesmo |
+|!duel/!x1/!fight | @usuario | para duelar com o usuário mencionado. O perdedor é mutado. |
+|!slots | | para jogar o slots e concorrer a uma posição prêmio na lista |
+|!slotscheck | | para verificar quantas chances você possuí no slots |
 |!emoji | | coloca o link dos emojis |
-|!origememoji | | coloca o link dos emojis customizados do OrigemWoot |
 |!eta | | mostra quanto tempo demora para você rodar seu video |
 |!fb | | coloca o link da página da sala |
 |!help | | coloca uma imagem para ajudar novos usuarios |
