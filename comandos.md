@@ -106,6 +106,7 @@ Usuario
 |!cookie| @usuario | dá um cookie para o usuario |
 |!sacanagem | @usuario | sacaneia um usuario |
 |!amorzinho | @usuario | manda uma frase de amor para um usuario |
+|!ask| mensagem ou (p: pergunta r: resposta) | para falar com o bot ou ensina-lo |
 |!castigar | @usuario | castiga um usuário |
 |!dclookup / !dc | | usa o dc em si mesmo |
 |!duel/!x1/!fight | @usuario | para duelar com o usuário mencionado. O perdedor é mutado. |
