@@ -33,6 +33,8 @@ Coordenador
 |!setslots | X ou easy/normal/hard | para mudar a posição ou a dificuldade do slots |
 |!setduel | X | para alterar o tempo de mute do duel |
 |!msginterval | X ou on/off | para alterar o tempo de intervalo das músicas ou o estado das mensagens intervaladas |
+|!stopduel | | para parar o duelo atual |
+|!clearduel | | para desmutar todos os usuários mutados pelo duel |
 
 Segurança+
 --------
