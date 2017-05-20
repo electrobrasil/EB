@@ -112,6 +112,9 @@ Usuario
 |!castigar | @usuario | castiga um usuário |
 |!dclookup / !dc | | usa o dc em si mesmo |
 |!duel/!x1/!fight | @usuario | para duelar com o usuário mencionado. O perdedor é mutado. |
+|!casar | @usuario | para casar com um usuário da sala. |
+|!acabar | | para se divorciar se estiver casado na sala. |
+|!casal | | para verificar com quem você está casado. |
 |!slots | | para jogar o slots e concorrer a uma posição prêmio na lista |
 |!slotscheck | | para verificar quantas chances você possuí no slots |
 |!votar | | para votar na música atual como música da semana |
