@@ -114,7 +114,7 @@ Usuario
 |!duel/!x1/!fight | @usuario | para duelar com o usuário mencionado. O perdedor é mutado. |
 |!slots | | para jogar o slots e concorrer a uma posição prêmio na lista |
 |!slotscheck | | para verificar quantas chances você possuí no slots |
-|!bigwoot | | para votar na música atual como música da semana |
+|!votar | | para votar na música atual como música da semana |
 |!emoji | | coloca o link dos emojis |
 |!eta | | mostra quanto tempo demora para você rodar seu video |
 |!fb | | coloca o link da página da sala |
