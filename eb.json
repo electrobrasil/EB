@@ -13,7 +13,7 @@
 	},
 	"images": {
 	     "background": "https://i.imgur.com/o8U69An.jpg",
-	     "playback": "http://i.imgur.com/hYEiCNl.gif",
+	     "playback": null,
 	     "admin": null,
 	     "ambassador": null,
 	     "host": null,
