@@ -31,6 +31,7 @@ Coordenador
 |!usercommands | | ativa/desativa comandos de usuarios cinzas |
 |!tema | tema | altera o tema atual da sala |
 |!setslots | X ou easy/normal/hard | para mudar a posição ou a dificuldade do slots |
+|!giveslots | @user + X | para adicionar mais chances pro usuário no slots |
 |!setduel | X | para alterar o tempo de mute do duel |
 |!msginterval | X ou on/off | para alterar o tempo de intervalo das músicas ou o estado das mensagens intervaladas |
 |!stopduel | | para parar o duelo atual |
