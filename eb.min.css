@@ -356,6 +356,8 @@ Vá para Marte em: https://marsencrypt.tk.
     padding-left: 20px;
     background: url(http://i.imgur.com/GGNxrRQ.png) no-repeat center;
     background-size: 17px;
+    background-position-x: 0px;
+    background-position-y: -2px;
 }
 /* AJUSTE DE MARGEM DOS ÍCONES */
 #chat-messages [data-cid|="16540847"] .msg .from .icon, 
