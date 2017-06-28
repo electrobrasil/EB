@@ -117,7 +117,6 @@ Usuario
 |!casal | | para verificar com quem você está casado. |
 |!slots | | para jogar o slots e concorrer a uma posição prêmio na lista |
 |!slotscheck | | para verificar quantas chances você possuí no slots |
-|!votar | | para votar na música atual como música da semana |
 |!emoji | | coloca o link dos emojis |
 |!eta | | mostra quanto tempo demora para você rodar seu video |
 |!fb | | coloca o link da página da sala |
