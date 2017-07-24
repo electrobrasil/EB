@@ -1,0 +1,98 @@
+#chat-messages [data-cid|='3485598'] .msg .from .un {
+    padding-left: 20px;
+    background: url(https://i.imgur.com/94HJL70.png) center no-repeat;
+    background-size: 18px;
+    background-position-x: 0
+}
+
+#chat-messages [data-cid|='16540847'] .msg .from .un {
+    padding-left: 20px;
+    background: url(https://i.imgur.com/tkhz34Y.png) center no-repeat;
+    background-size: 18px;
+    background-position-x: 0
+}
+
+#chat-messages [data-cid|="3698024"] .msg .from .un {
+    padding-left: 21px;
+    background: url(https://i.imgur.com/e7F6RZu.png) center no-repeat;
+    background-size: 18px;
+    background-position-x: 0
+}
+
+#chat-messages [data-cid|="3456648"] .msg .from .un {
+    padding-left: 20px;
+    background: url(https://i.imgur.com/Ykl26AW.png) center no-repeat;
+    background-size: 17px;
+    background-position-x: 0
+}
+
+#chat-messages [data-cid|="3604577"] .msg .from .un {
+    padding-left: 20px;
+    background: url(https://i.imgur.com/DipSpAA.png) center no-repeat;
+    background-size: 18px;
+    background-position-x: 0
+}
+
+#chat-messages [data-cid|="16760700"] .msg .from .un {
+    padding-left: 22px;
+    background: url(https://i.imgur.com/LG5STv5.png) center no-repeat;
+    background-size: 20px;
+    background-position-x: -1px;
+    padding-top: 2px;
+    padding-bottom: 2px
+}
+
+#chat-messages [data-cid|="3985686"] .msg .from .un {
+    padding-left: 20px;
+    background: url(https://i.imgur.com/Ihtt7KY.png) center no-repeat;
+    background-size: 20px;
+    background-position-x: -1px
+}
+
+#chat-messages [data-cid|="6273420"] .msg .from .un {
+    padding-left: 20px;
+    background: url(https://i.imgur.com/YAMfBq4.png) center no-repeat;
+    background-size: 20px;
+    background-position-x: -1px;
+    background-position-y: 0
+}
+
+#chat-messages [data-cid|="16540847"] .msg .from .icon,#chat-messages [data-cid|="3456648"] .msg .from .icon,#chat-messages [data-cid|="3604577"] .msg .from .icon,#chat-messages [data-cid|="16760700"] .msg .from .icon,#chat-messages [data-cid|="3985686"] .msg .from .icon,#chat-messages [data-cid|="3485598"] .msg .from .icon,#chat-messages [data-cid|="3698024"] .msg .from .icon,#chat-messages [data-cid|="6273420"] .msg .from .icon {
+    margin-right: 2px
+}
+
+#chat [data-cid|='3485598'] .un:hover:after {
+    content: 'Room Developer';
+    background: url(https://i.imgur.com/HdwNWu5.png) no-repeat;
+    padding: 3px 6px;
+    color: #fff;
+    bottom: 20px;
+    position: absolute;
+    left: 60px;
+    width: 89px;
+    height: 26px
+}
+
+#chat [data-cid|='4453331'] .un:hover:after {
+    content: 'Homao da Sala';
+    background: url(https://i.imgur.com/HdwNWu5.png);
+    padding: 3px 6px;
+    color: #fff;
+    bottom: 20px;
+    position: absolute;
+    left: 56px;
+    width: 82px;
+    height: 26px
+}
+
+#chat [data-cid|='3985686'] .un:hover:after {
+    content: 'Urso da Sala';
+    background: url(https://i.imgur.com/HdwNWu5.png);
+    padding: 3px 6px;
+    color: #fff;
+    bottom: 20px;
+    position: absolute;
+    left: 56px;
+    width: 82px;
+    height: 26px
+}
