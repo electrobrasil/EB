@@ -1,23 +1,40 @@
-[data-cid^="4249648-"] .badge-box .bdg {
-    background-image: url("http://i.imgur.com/YYvfXPB.gif") !important;
-    background-repeat: round !important;
-    background-size: 30px !important;
-}
-#user-rollover.id-4249648 .badge-box .bdg {
-    border-radius: 5px !important;
-    background-image: url("http://i.imgur.com/YYvfXPB.gif") !important;
-    background-repeat: round !important;
-    background-size: 30px !important;
+#chat-messages [data-cid|="16540847"]>.badge-box>.bdg {
+    background: url(http://blog.iconfinder.com/wp-content/uploads/2016/04/13-robots-icons.jpg) -8px -9px!important;
+    background-size: 46px!important
 }
 
-[data-cid^="4453331-"] .badge-box .bdg {
-    background-image: url("http://i.imgur.com/bfZiJwL.gif") !important;
-    background-repeat: round !important;
-    background-size: 30px !important;
+#chat-messages [data-cid|="3485598"] .badge-box .bdg {
+    background: url(https://i.imgur.com/zYvoYnu.jpg)!important;
+    background-size: cover!important
 }
-#user-rollover.id-4453331 .badge-box .bdg {
-    border-radius: 5px !important;
-    background-image: url("http://i.imgur.com/bfZiJwL.gif") !important;
-    background-repeat: round !important;
-    background-size: 30px !important;
+
+#chat-messages [data-cid|="4558687"] .badge-box .bdg {
+    background-image: url(https://img.memesuper.com/b9c0476e164a19c234940e7858b08f0e_much-vodka-many-bear-much-dog-meme_265-265.png)!important;
+    background-size: cover!important
+}
+
+#chat-messages [data-cid|="6525145"] .badge-box .bdg,
+#chat-messages [data-cid|="3657725"] .badge-box .bdg {
+    background: url(https://i.imgur.com/rc2fkVW.gif) center no-repeat!important;
+    background-size: cover!important
+}
+
+#chat-messages [data-cid|="3698024"] .badge-box .bdg {
+    background: url(https://i.imgur.com/9744t8K.gif) center no-repeat!important;
+    background-size: 80px!important
+}
+
+#chat-messages [data-cid|="6273420"] .badge-box .bdg {
+    background: url(https://i.imgur.com/nVsgYa9.gif) center no-repeat!important;
+    background-size: cover!important
+}
+
+#chat-messages [data-cid|="16373227"] .badge-box .bdg {
+    background: url(https://media.giphy.com/media/95iWmWGjw9g7S/giphy.gif) center no-repeat!important;
+    background-size: cover!important
+}
+
+#chat-messages [data-cid|="1071102"] .badge-box .bdg {
+    background: url(https://i.imgur.com/0U5b0zX.gif) center no-repeat!important;
+    background-size: cover!important
 }
