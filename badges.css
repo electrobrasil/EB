@@ -48,3 +48,8 @@
     background: url(https://imgur.com/lsPwhep.gif) center no-repeat!important;
     background-size: 70px !important
 }
+
+#chat-messages [data-cid|="24791065"] .badge-box .bdg {
+    background: url(https://media.giphy.com/media/xUn3C6s83WTsC6sIkU/giphy.gif) center no-repeat!important;
+    background-size: 70px !important
+}
