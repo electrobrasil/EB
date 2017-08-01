@@ -63,3 +63,9 @@
     background: url(https://media.giphy.com/media/dTxOCCvQOhRXa/giphy.gif) center no-repeat!important;
     background-size: cover!important
 }
+
+#chat-messages [data-cid|="18200177"] .badge-box .bdg {
+    background: url(https://i.imgur.com/nEUaEL6.gif) center no-repeat!important;
+    background-size: cover!important
+}
+
