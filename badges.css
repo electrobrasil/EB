@@ -69,3 +69,17 @@
     background-size: cover!important
 }
 
+#chat-messages [data-cid|="3851223"] .badge-box .bdg {
+    background: url(https://media.giphy.com/media/WwK3OHQrsAAI8/giphy.gif) center no-repeat!important;
+    background-size: cover!important
+}
+
+#chat-messages [data-cid|="3456648"] .badge-box .bdg {
+    background: url(https://i.makeagif.com/media/10-29-2015/D9ndLC.gif) center no-repeat!important;
+    background-size: cover!important
+}
+
+#chat-messages [data-cid|="13167127"] .badge-box .bdg {
+    background: url(http://i.imgur.com/365QDgj.gif) center no-repeat!important;
+    background-size: cover!important
+}
