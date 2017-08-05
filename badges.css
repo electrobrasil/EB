@@ -83,3 +83,8 @@
     background: url(http://i.imgur.com/No4KmD7.gif) center no-repeat!important;
     background-size: cover!important
 }
+
+#chat-messages [data-cid|="3985686"] .badge-box .bdg {
+    background: url(https://i.imgur.com/dVthkoQ.gif) center no-repeat!important;
+    background-size: cover!important
+}
