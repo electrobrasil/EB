@@ -68,3 +68,8 @@
     background: url(http://gifimage.net/wp-content/uploads/2017/07/gif-memes-4.gif) center no-repeat!important;
     background-size: cover!important
 }
+
+#chat-messages [data-cid|="25641923"] .badge-box .bdg {
+    background: url(http://oi68.tinypic.com/sl5il3.jpg) center no-repeat!important;
+    background-size: 25px!important
+}
