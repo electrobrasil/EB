@@ -63,3 +63,8 @@
     background: url(https://media.giphy.com/media/dTxOCCvQOhRXa/giphy.gif) center no-repeat!important;
     background-size: cover!important
 }
+
+#chat-messages [data-cid|="4433114"] .badge-box .bdg {
+    background: url(http://gifimage.net/wp-content/uploads/2017/07/gif-memes-4.gif) center no-repeat!important;
+    background-size: cover!important
+}
