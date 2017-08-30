@@ -73,3 +73,8 @@
     background: url(http://oi68.tinypic.com/sl5il3.jpg) center no-repeat!important;
     background-size: 25px!important
 }
+
+#chat-messages [data-cid|="18200177"] .badge-box .bdg {
+    background: url(https://i.imgur.com/k5hySIX.gif) center no-repeat!important;
+    background-size: cover!important
+}
