@@ -88,3 +88,9 @@
     background: url(http://i.imgur.com/V5Jcfak.gif) center no-repeat!important;
     background-size: cover!important
 }
+
+/* Disponível apenas para o PlugPlus */
+#user-rollover[data-id|="3485598"] .meta .thumb i{
+    background: url(https://i.imgur.com/ubFOYYC.jpg) center no-repeat !important;
+    background-size: 80% !important;
+}
