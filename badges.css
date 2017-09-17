@@ -90,7 +90,7 @@
 }
 
 /* Rollover */
-#user-rollover[data-id|="3485598"] .meta .thumb i,
+#user-rollover[data-id|="3485598"] .meta .thumb .avi,
 #user-rollover.id-348559 .meta .thumb i {
     background: url(https://i.imgur.com/ubFOYYC.jpg) center no-repeat !important;
     background-size: 80% !important;
