@@ -95,3 +95,22 @@
     background: url(https://i.imgur.com/ubFOYYC.jpg) center no-repeat !important;
     background-size: 80% !important;
 }
+
+#user-rollover[data-id|="3485598"] .meta .username {
+    font-size: 1.4em !important;
+    font-weight: bold;
+    position: relative;
+}
+
+#user-rollover[data-id|="3485598"] .meta .username:after,
+#user-rollover.id-348559 .meta .username:after {
+    display: inline-block;
+    content: 'DEVELOPER';
+    font-size: 10px;
+    background: rgba(0, 0, 0, 0.54);
+    padding: 4px;
+    border-radius: 3px;
+    margin-left: 8px;
+    position: relative;
+    top: -3px;
+}
