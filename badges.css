@@ -145,3 +145,55 @@
     position: relative;
     top: -3px;
 }
+
+/* Rollover */
+#user-rollover[data-id|="3985686"] .meta .thumb .avi,
+#user-rollover.id-398568 .meta .thumb i {
+    background: url(https://i.imgur.com/tREJNaI.jpg) center no-repeat !important;
+    background-size: 50% !important;
+}
+
+#user-rollover[data-id|="3985686"] .meta .username {
+    font-size: 1.4em !important;
+    font-weight: bold;
+    position: relative;
+}
+
+#user-rollover[data-id|="3985686"] .meta .username:after,
+#user-rollover.id-398568 .meta .username:after {
+    display: inline-block;
+    content: 'ADMINISTRADOR';
+    font-size: 10px;
+    background: rgba(0, 0, 0, 0.54);
+    padding: 4px;
+    border-radius: 3px;
+    margin-left: 8px;
+    position: relative;
+    top: -3px;
+}
+
+/* Rollover */
+#user-rollover[data-id|="5367703"] .meta .thumb .avi,
+#user-rollover.id-536770 .meta .thumb i {
+    background: url(https://image.prntscr.com/image/O8coone5T5_lWer-dcLHjA.jpg) center no-repeat !important;
+    background-size: 50% !important;
+}
+
+#user-rollover[data-id|="5367703"] .meta .username {
+    font-size: 1.4em !important;
+    font-weight: bold;
+    position: relative;
+}
+
+#user-rollover[data-id|="5367703"] .meta .username:after,
+#user-rollover.id-536770 .meta .username:after {
+    display: inline-block;
+    content: 'MODERADOR CHAT';
+    font-size: 10px;
+    background: rgba(0, 0, 0, 0.54);
+    padding: 4px;
+    border-radius: 3px;
+    margin-left: 8px;
+    position: relative;
+    top: -3px;
+}
