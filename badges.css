@@ -40,8 +40,8 @@
 }
 
 #chat-messages [data-cid|="4453331"] .badge-box .bdg {
-    background: url(http://giffiles.alphacoders.com/378/3785.gif) center no-repeat!important;
-    background-size: cover!important
+    background: url(https://i.imgur.com/ceGiH2M.jpg) center no-repeat!important;
+    background-size: 25px!important
 }
 
 #chat-messages [data-cid|="3469337"] .badge-box .bdg {
@@ -86,7 +86,12 @@
 
 #chat-messages [data-cid|="29110866"] .badge-box .bdg {
     background: url(http://i.imgur.com/V5Jcfak.gif) center no-repeat!important;
-    background-size: cover!important
+    background-size: 25px!important
+ }
+
+#chat-messages [data-cid|="5367703"] .badge-box .bdg {
+    background: url(https://image.prntscr.com/image/O8coone5T5_lWer-dcLHjA.jpg) center no-repeat!important;
+    background-size: cover!important       
 }
 
 /* Rollover */
