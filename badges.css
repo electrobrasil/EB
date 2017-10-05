@@ -197,3 +197,29 @@
     position: relative;
     top: -3px;
 }
+
+/* Rollover */
+#user-rollover[data-id|="3573759"] .meta .thumb .avi,
+#user-rollover.id-357375 .meta .thumb i {
+    background: url(https://i.imgur.com/2nr3fCl.jpg) center no-repeat !important;
+    background-size: 50% !important;
+}
+
+#user-rollover[data-id|="3573759"] .meta .username {
+    font-size: 1.4em !important;
+    font-weight: bold;
+    position: relative;
+}
+
+#user-rollover[data-id|="3573759"] .meta .username:after,
+#user-rollover.id-357375 .meta .username:after {
+    display: inline-block;
+    content: 'COORD EVENTOS';
+    font-size: 10px;
+    background: rgba(0, 0, 0, 0.54);
+    padding: 4px;
+    border-radius: 3px;
+    margin-left: 8px;
+    position: relative;
+    top: -3px;
+}
