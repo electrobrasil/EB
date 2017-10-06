@@ -223,3 +223,55 @@
     position: relative;
     top: -3px;
 }
+
+/* Rollover */
+#user-rollover[data-id|="3456648"] .meta .thumb .avi,
+#user-rollover.id-345664 .meta .thumb i {
+    background: url(https://i.imgur.com/KoQF4ur.jpg) center no-repeat !important;
+    background-size: 57% !important;
+}
+
+#user-rollover[data-id|="3456648"] .meta .username {
+    font-size: 1.4em !important;
+    font-weight: bold;
+    position: relative;
+}
+
+#user-rollover[data-id|="3456648"] .meta .username:after,
+#user-rollover.id-345664 .meta .username:after {
+    display: inline-block;
+    content: 'ADMINISTRADOR';
+    font-size: 10px;
+    background: rgba(0, 0, 0, 0.54);
+    padding: 4px;
+    border-radius: 3px;
+    margin-left: 8px;
+    position: relative;
+    top: -3px;
+}
+
+/* Rollover */
+#user-rollover[data-id|="16760700"] .meta .thumb .avi,
+#user-rollover.id-1676070 .meta .thumb i {
+    background: url(https://i.imgur.com/p7U6ojF.gif) center no-repeat !important;
+    background-size: 57% !important;
+}
+
+#user-rollover[data-id|="16760700"] .meta .username {
+    font-size: 1.4em !important;
+    font-weight: bold;
+    position: relative;
+}
+
+#user-rollover[data-id|="16760700"] .meta .username:after,
+#user-rollover.id-1676070 .meta .username:after {
+    display: inline-block;
+    content: 'COORD DIVULGADOR';
+    font-size: 10px;
+    background: rgba(0, 0, 0, 0.54);
+    padding: 4px;
+    border-radius: 3px;
+    margin-left: 8px;
+    position: relative;
+    top: -3px;
+}
