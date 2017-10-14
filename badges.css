@@ -109,15 +109,20 @@
 
 #user-rollover[data-id|="3485598"] .meta .username:after,
 #user-rollover.id-348559 .meta .username:after {
+    background: url('https://cdn3.iconfinder.com/data/icons/roles-computer-it/128/front-end_developer-2-512.png') no-repeat center, rgba(0, 0, 0, 0.5) center;
+    background-size: 39px;
+    background-position: -11px;
+    border: 1px solid #48b148;
+    box-shadow: 0px 0px 5px #48b148;
     display: inline-block;
     content: 'DEVELOPER';
-    font-size: 10px;
-    background: rgba(0, 0, 0, 0.54);
-    padding: 4px;
+    font-size: 11px;
+    padding: 4px 4px 5px 23px;
     border-radius: 3px;
-    margin-left: 8px;
+    margin-left: 4px;
     position: relative;
     top: -3px;
+    cursor: help;
 }
 
 /* Rollover */
