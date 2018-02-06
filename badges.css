@@ -99,6 +99,11 @@
     background-size: 25px!important      
 }
 
+#chat-messages [data-cid|="23174137"] .badge-box .bdg {
+    background: url(https://orig00.deviantart.net/3946/f/2016/092/9/6/ba01_by_rosolinio-d9xfjoy.gif) center no-repeat!important;
+    background-size: cover!important
+}
+
 /* Rollover */
 #user-rollover[data-id|="3485598"] .meta .thumb .avi,
 #user-rollover.id-348559 .meta .thumb i {
