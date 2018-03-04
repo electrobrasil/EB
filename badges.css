@@ -119,6 +119,11 @@
     background-size: cover!important
 }
 
+#chat-messages [data-cid|="32937367"] .badge-box .bdg {
+    background: url(https://imgur.com/gxmFLg3) center no-repeat!important;
+    background-size: cover!important
+}
+
 /* Rollover */
 #user-rollover[data-id|="3485598"] .meta .thumb .avi,
 #user-rollover.id-348559 .meta .thumb i {
@@ -244,7 +249,7 @@
 #user-rollover[data-id|="3573759"] .meta .username:after,
 #user-rollover.id-357375 .meta .username:after {
     display: inline-block;
-    content: 'COORD EVENTOS';
+    content: 'RDJ VIP';
     font-size: 10px;
     background: rgba(0, 0, 0, 0.54);
     padding: 4px;
