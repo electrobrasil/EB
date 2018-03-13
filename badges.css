@@ -109,11 +109,6 @@
     background-size: cover!important
 }
 
-#chat-messages [data-cid|="28121331"] .badge-box .bdg {
-    background: url(https://i.imgur.com/kn1AiC1.gif) center no-repeat!important;
-    background-size: cover!important
-}
-
 #chat-messages [data-cid|="4667154"] .badge-box .bdg {
     background: url(https://goo.gl/1SC6cF) center no-repeat!important;
     background-size: cover!important
