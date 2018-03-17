@@ -129,6 +129,11 @@
     background-size: cover!important
 }
 
+#chat-messages [data-cid|="3725627"] .badge-box .bdg {
+    background: url(https://giphy.com/gifs/flamengo-dancinha-passinho-3o6fIPsLQ8iKAgwsU0) center no-repeat!important;
+    background-size: cover!important
+}
+
 /* Rollover */
 #user-rollover[data-id|="3485598"] .meta .thumb .avi,
 #user-rollover.id-348559 .meta .thumb i {
