@@ -134,6 +134,11 @@
     background-size: cover!important
 }
 
+#chat-messages [data-cid|="5772436"] .badge-box .bdg {
+    background: url(https://i.pinimg.com/originals/e6/42/79/e64279689c1cc0659fb12be60975acfe.jpg) center no-repeat!important;
+    background-size: cover!important
+}
+
 /* Rollover */
 #user-rollover[data-id|="3485598"] .meta .thumb .avi,
 #user-rollover.id-348559 .meta .thumb i {
