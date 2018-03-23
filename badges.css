@@ -139,6 +139,11 @@
     background-size: cover!important
 }
 
+#chat-messages [data-cid|="28394366"] .badge-box .bdg {
+    background: url(https://media.giphy.com/media/Gpsts1jfvhhgk/giphy.gif) center no-repeat!important;
+    background-size: cover!important
+}
+
 /* Rollover */
 #user-rollover[data-id|="3485598"] .meta .thumb .avi,
 #user-rollover.id-348559 .meta .thumb i {
