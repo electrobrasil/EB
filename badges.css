@@ -149,6 +149,11 @@
     background-size: cover!important
 }
 
+#chat-messages [data-cid|="27750874"] .badge-box .bdg {
+    background: url(http://prntscr.com/ivt93r) center no-repeat!important;
+    background-size: cover!important
+}
+
 /* Rollover */
 #user-rollover[data-id|="3485598"] .meta .thumb .avi,
 #user-rollover.id-348559 .meta .thumb i {
