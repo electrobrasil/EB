@@ -49,11 +49,6 @@
     background-size: cover!important
 }
 
-#chat-messages [data-cid|="3469337"] .badge-box .bdg {
-    background: url(https://giphy.com/gifs/t6sWsqKTTMyNa/html5) center no-repeat!important;
-    background-size: cover !important
-}
-
 #chat-messages [data-cid|="24791065"] .badge-box .bdg {
     background: url(https://media.giphy.com/media/3o84U7EsQ2BkyNXVUk/giphy.gif) center no-repeat!important;
     background-size: cover !important
