@@ -179,6 +179,16 @@
     background-size: cover!important
 }
 
+#chat-messages [data-cid|="10705455"] .badge-box .bdg {
+    background: url(https://i.imgur.com/aeXRGLe.jpg) center no-repeat!important;
+    background-size: cover!important
+}
+
+#chat-messages [data-cid|="2974552"] .badge-box .bdg {
+    background: url(https://vignette.wikia.nocookie.net/narutofanon/images/6/62/Indra_Uchiha.png/revision/latest?cb=201) center no-repeat!important;
+    background-size: cover!important
+}
+
 /* Rollover */
 #user-rollover[data-id|="3485598"] .meta .thumb .avi,
 #user-rollover.id-348559 .meta .thumb i {
