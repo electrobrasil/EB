@@ -189,6 +189,21 @@
     background-size: cover!important
 }
 
+#chat-messages [data-cid|="1052996"] .badge-box .bdg {
+    background: url(https://i.imgur.com/V9sb5bq.gif) center no-repeat!important;
+    background-size: cover!important
+}
+
+#chat-messages [data-cid|="36005716"] .badge-box .bdg {
+    background: url(https://i.imgur.com/p1yiG04.jpg) center no-repeat!important;
+    background-size: cover!important
+}
+
+#chat-messages [data-cid|="36005893"] .badge-box .bdg {
+    background: url(https://i.imgur.com/NoTOK5o.jpg) center no-repeat!important;
+    background-size: cover!important
+}
+
 /* Rollover */
 #user-rollover[data-id|="3485598"] .meta .thumb .avi,
 #user-rollover.id-348559 .meta .thumb i {
