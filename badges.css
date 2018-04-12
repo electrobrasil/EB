@@ -209,6 +209,16 @@
     background-size: cover!important
 }
 
+#chat-messages [data-cid|="4200525"] .badge-box .bdg {
+    background: url(https://is5-ssl.mzstatic.com/image/thumb/Purple111/v4/b8/08/b1/b808b117-6481-7c01-253a-8bae669d85ee/mzl.urutxlpq.png/1200x630bb.jpg) center no-repeat!important;
+    background-size: cover!important
+}
+
+#chat-messages [data-cid|="33244604"] .badge-box .bdg {
+    background: url(https://i.imgur.com/6vggp3F.gif) center no-repeat!important;
+    background-size: cover!important
+}
+
 /* Rollover */
 #user-rollover[data-id|="3485598"] .meta .thumb .avi,
 #user-rollover.id-348559 .meta .thumb i {
