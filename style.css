@@ -51,6 +51,19 @@ Vá para Marte em: https://marsencrypt.tk.
     top: -30px !important;
 }
 
+#playback .background img {
+    display:  none;
+}
+
+#playback .background:before {
+    content: '';
+    background: url("https://i.imgur.com/q8Wnw9L.png") center no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
 #store-button {
     background: linear-gradient(to bottom,red 0,#A00000 100%)
 }
