@@ -47,6 +47,10 @@ Vá para Marte em: https://marsencrypt.tk.
     background: linear-gradient(to bottom,rgba(255,255,255,.25) 0,rgba(0,0,0,.75) 100%)
 }
 
+#audience-canvas {
+    top: -30px !important;
+}
+
 #store-button {
     background: linear-gradient(to bottom,red 0,#A00000 100%)
 }
