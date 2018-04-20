@@ -170,7 +170,7 @@
 }
 
 #chat-messages [data-cid|="3469337"] .badge-box .bdg {
-    background: url(https://i.imgur.com/zPmql01.gif) center no-repeat!important;
+    background: url(https://www.torcedores.com/content/uploads/2017/04/Escudo-Corinthians.png) center no-repeat!important;
     background-size: cover!important
 }
 
@@ -231,6 +231,11 @@
 
 #chat-messages [data-cid|="37130971"] .badge-box .bdg {
     background: url(https://i.imgur.com/nGdUcCM.gif) center no-repeat!important;
+    background-size: cover!important
+}
+
+#chat-messages [data-cid|="32558410"] .badge-box .bdg {
+    background: url(https://i.imgur.com/rRUktCd.gif) center no-repeat!important;
     background-size: cover!important
 }
 
