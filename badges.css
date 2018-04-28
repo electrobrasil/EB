@@ -249,6 +249,11 @@
     background-size: cover!important
 }
 
+#chat-messages [data-cid|="15519680"] .badge-box .bdg {
+    background: url(https://78.media.tumblr.com/9dd923ed467ab25c6e86146b09252cf3/tumblr_p7rlinW3aI1x0cb69o6_r1_400.gif) center no-repeat!important;
+    background-size: cover!important
+}
+
 /* Rollover */
 #user-rollover[data-id|="3485598"] .meta .thumb .avi,
 #user-rollover.id-348559 .meta .thumb i {
