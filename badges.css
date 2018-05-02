@@ -254,11 +254,6 @@
     background-size: cover!important
 }
 
-#chat-messages [data-cid|="37080211"] .badge-box .bdg {
-    background: url(https://vignette.wikia.nocookie.net/logosrupaulsdragrace/images/3/34/Tumblr_inline_nnfniqN2eJ1ripgeb_500.gif/revision/latest?cb=20160224064650) center no-repeat!important;
-    background-size: cover!important
-}
-
 /* Rollover */
 #user-rollover[data-id|="3485598"] .meta .thumb .avi,
 #user-rollover.id-348559 .meta .thumb i {
