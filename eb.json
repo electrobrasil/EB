@@ -12,7 +12,7 @@
             "forceSmartVote": false
 	},
 	"images": {
-	     "background": "https://i.imgur.com/STGgPIH.jpg",
+	     "background": null,
 	     "playback": null,
 	     "admin": null,
 	     "ambassador": null,
