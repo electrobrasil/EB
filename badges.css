@@ -8,6 +8,16 @@
     background-size: cover!important
 }
 
+#chat-messages [data-cid|="37420997"] .badge-box .bdg {
+    background: url(https://i.imgur.com/iP0Hy7N.gif)!important;
+    background-size: cover!important
+}
+
+#chat-messages [data-cid|="29030513"] .badge-box .bdg {
+    background: url(https://i.imgur.com/U9YxqmS.jpg)!important;
+    background-size: cover!important
+}
+
 #chat-messages [data-cid|="15519680"] .badge-box .bdg {
     background: url(https://i.imgur.com/R9RxpfP.gif)!important;
     background-size: cover!important
