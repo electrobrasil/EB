@@ -5,6 +5,31 @@
 
 #chat-messages [data-cid|="3485598"] .badge-box .bdg {
     background: url(https://i.imgur.com/ubFOYYC.jpg)!important;
+    background-size: 80px!important
+}
+
+#chat-messages [data-cid|="11338452"] .badge-box .bdg {
+    background: url(https://78.media.tumblr.com/9e259d64d4123e1d631cbcdabcdc2c29/tumblr_otuxh1woLG1qehiaao1_r1_500.gif)!important;
+    background-size: cover!important
+}
+
+#chat-messages [data-cid|="27782854"] .badge-box .bdg {
+    background: url(https://i.imgur.com/AvNQvbm.gif)!important;
+    background-size: cover!important
+}
+
+#chat-messages [data-cid|="33720502"] .badge-box .bdg {
+    background: url(http://mverzaro.com.br/wp/wp-content/uploads/2012/06/dj-music-741-1.jpg)!important;
+    background-size: 25px!important
+}
+
+#chat-messages [data-cid|="24515805"] .badge-box .bdg {
+    background: url(https://i0.wp.com/nerdgeekfeelings.com/wp-content/uploads/2016/09/gravity-fall-gnomo-vomitanco-arco-iris.gif)!important;
+    background-size: cover!important
+}
+
+#chat-messages [data-cid|="29207845"] .badge-box .bdg {
+    background: url(https://i.imgur.com/JnnaJ3b.png)!important;
     background-size: cover!important
 }
 
