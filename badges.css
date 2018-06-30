@@ -8,6 +8,21 @@
     background-size: cover!important
 }
 
+#chat-messages [data-cid|="15519680"] .badge-box .bdg {
+    background: url(https://i.imgur.com/R9RxpfP.gif)!important;
+    background-size: cover!important
+}
+
+#chat-messages [data-cid|="3537555"] .badge-box .bdg {
+    background: url(https://media.giphy.com/media/FrnpqArQZtti8/giphy.gif)!important;
+    background-size: cover!important
+}
+
+#chat-messages [data-cid|="16719045"] .badge-box .bdg {
+    background: url(https://media.giphy.com/media/UvRwJhgfbjVi8/giphy.gif)!important;
+    background-size: cover!important
+}
+
 #chat-messages [data-cid|="4558687"] .badge-box .bdg {
     background-image: url(https://img.memesuper.com/b9c0476e164a19c234940e7858b08f0e_much-vodka-many-bear-much-dog-meme_265-265.png)!important;
     background-size: cover!important
@@ -19,9 +34,9 @@
     background-size: cover!important
 }
 
-#chat-messages [data-cid|="3698024"] .badge-box .bdg {
-    background: url(https://i.imgur.com/9744t8K.gif) center no-repeat!important;
-    background-size: 80px!important
+#chat-messages [data-cid|="21410093"] .badge-box .bdg {
+    background: url(https://i.imgur.com/jQE6zTJ.jpg) center no-repeat!important;
+    background-size: 25px!important
 }
 
 #chat-messages [data-cid|="6273420"] .badge-box .bdg {
