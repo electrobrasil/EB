@@ -8,6 +8,16 @@
     background-size: cover!important
 }
 
+#chat-messages [data-cid|="3851724"] .badge-box .bdg {
+    background: url(https://i.imgur.com/7lZvxMs.gif)!important;
+    background-size: cover!important
+}
+
+#chat-messages [data-cid|="5077681"] .badge-box .bdg {
+    background: url(https://i.pinimg.com/originals/67/1f/cf/671fcf4a8b4445d831c2f5413e401e50.gif)!important;
+    background-size: cover!important
+}
+
 #chat-messages [data-cid|="11338452"] .badge-box .bdg {
     background: url(https://78.media.tumblr.com/9e259d64d4123e1d631cbcdabcdc2c29/tumblr_otuxh1woLG1qehiaao1_r1_500.gif)!important;
     background-size: 80px!important
