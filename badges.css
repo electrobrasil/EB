@@ -339,6 +339,11 @@
     background-size: cover!important
 }
 
+#chat-messages [data-cid|="47695467"] .badge-box .bdg {
+    background: url(https://pa1.narvii.com/6645/66d2ad26be02f9c6b16e233d435e44a496754fab_hq.gif) center no-repeat!important;
+    background-size: cover!important
+}
+
 /* Rollover */
 #user-rollover[data-id|="3485598"] .meta .thumb .avi,
 #user-rollover.id-348559 .meta .thumb i {
