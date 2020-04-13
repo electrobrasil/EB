@@ -349,6 +349,11 @@
     background-size: cover!important
 }
 
+#chat-messages [data-cid|="50793269"] .badge-box .bdg {
+    background: url(https://i.imgur.com/r5atnMR.gif) center no-repeat!important;
+    background-size: cover!important
+}
+
 /* Rollover */
 #user-rollover[data-id|="3485598"] .meta .thumb .avi,
 #user-rollover.id-348559 .meta .thumb i {
