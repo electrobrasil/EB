@@ -9,4 +9,101 @@ Editado com amor pelo TheMars, Desenvolvedor da Marsencrypt.
 Vá para Marte em: https://marsencrypt.tk.
 */
 
-@import url(https://rawgit.com/electrobrasil/EB/master/chatelements.css);@import url(https://rawgit.com/electrobrasil/EB/master/badges.css);.nav-left__item.selected,.nav-left__item:hover,.user-profile-dropdown__item:hover{transform:translateX(2px);background:0 0!important}#user-menu .item,.nav-left__item,.user-profile-dropdown__item{transition:all .12s ease}.community .community__name{color:#fff}.community .room-controls--desktop{border:none;border-radius:5px;background:#24292f;width:auto}.community .room-controls--desktop__item{margin:0 17px!important}.community .room-controls--desktop__item .btn-like.clicked{color:#90ad2f!important}.community .room-controls--desktop__item .btn-meh.clicked{color:#c42e3b}.nav-left{background:#000}.nav-left__item:hover{background:linear-gradient(to right,rgba(255,118,118,0) 0,rgba(70,70,70,.5) 100%)!important}.nav-left__item.selected:hover{background:0 0!important}.nav-left__item.selected .nav-left__item-icon,.nav-left__item.selected .nav-left__item-text{color:#fff}.nav-left__item.selected{border-color:#fff;background:#1b1b1b}.btn-no-dj-primary.btn-no-dj-secondary__bottom,.btn-no-dj-secondary.btn-no-dj-secondary__bottom{background:#24292f;padding:10px 14px 10px 9px;border-radius:5px}.btn-no-dj-primary.btn-no-dj-secondary__bottom:hover,.btn-no-dj-secondary.btn-no-dj-secondary__bottom:hover{background:#383f48}.btn-no-dj-primary.btn-no-dj-secondary__bottom .room-controls__bottom-text,.btn-no-dj-secondary.btn-no-dj-secondary__bottom .room-controls__bottom-text{font-size:15px;font-family:Roboto,sans-serif!important;font-weight:500}#rs-eta{position:relative;bottom:-5px;font-size:13px!important}#user-menu .item.selected,#user-menu .item.selected>span{background:0 0!important;color:#fff!important}#user-menu .item:hover{transform:translateX(3px)}#user-menu .item:hover>span{color:#fff!important}
+@import url(https://rawgit.com/electrobrasil/EB/master/chatelements.css);
+@import url(https://rawgit.com/electrobrasil/EB/master/badges.css);
+.nav-left__item.selected,
+.nav-left__item:hover,
+.user-profile-dropdown__item:hover {
+	transform: translateX(2px);
+	background: 0 0!important
+}
+
+#user-menu .item,
+.nav-left__item,
+.user-profile-dropdown__item {
+	transition: all .12s ease
+}
+
+.community .community__name {
+	color: #fff
+}
+
+.community .room-controls--desktop {
+	border: none;
+	border-radius: 5px;
+	background: #24292f;
+	width: auto
+}
+
+.community .room-controls--desktop__item {
+	margin: 0 17px!important
+}
+
+.community .room-controls--desktop__item .btn-like.clicked {
+	color: #90ad2f!important
+}
+
+.community .room-controls--desktop__item .btn-meh.clicked {
+	color: #c42e3b
+}
+
+.nav-left {
+	background: #000
+}
+
+.nav-left__item:hover {
+	background: linear-gradient(to right, rgba(255, 118, 118, 0) 0, rgba(70, 70, 70, .5) 100%)!important
+}
+
+.nav-left__item.selected:hover {
+	background: 0 0!important
+}
+
+.nav-left__item.selected .nav-left__item-icon,
+.nav-left__item.selected .nav-left__item-text {
+	color: #fff
+}
+
+.nav-left__item.selected {
+	border-color: #fff;
+	background: #1b1b1b
+}
+
+.btn-no-dj-primary.btn-no-dj-secondary__bottom,
+.btn-no-dj-secondary.btn-no-dj-secondary__bottom {
+	background: #24292f;
+	padding: 10px 14px 10px 9px;
+	border-radius: 5px
+}
+
+.btn-no-dj-primary.btn-no-dj-secondary__bottom:hover,
+.btn-no-dj-secondary.btn-no-dj-secondary__bottom:hover {
+	background: #383f48
+}
+
+.btn-no-dj-primary.btn-no-dj-secondary__bottom .room-controls__bottom-text,
+.btn-no-dj-secondary.btn-no-dj-secondary__bottom .room-controls__bottom-text {
+	font-size: 15px;
+	font-family: Roboto, sans-serif!important;
+	font-weight: 500
+}
+
+#rs-eta {
+	position: relative;
+	bottom: -5px;
+	font-size: 13px!important
+}
+
+#user-menu .item.selected,
+#user-menu .item.selected>span {
+	background: 0 0!important;
+	color: #fff!important
+}
+
+#user-menu .item:hover {
+	transform: translateX(3px)
+}
+
+#user-menu .item:hover>span {
+	color: #fff!important
+}
