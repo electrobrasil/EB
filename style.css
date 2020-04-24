@@ -111,3 +111,7 @@ Vá para Marte em: https://marsencrypt.tk.
 #chat .badge-box i, .right-side-wrapper #chat .badge-box .icon-arrow-down {
 	transform: scale(1) !important;
 }
+
+.badge-box {
+	background: transparent !important;
+}
