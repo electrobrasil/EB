@@ -107,3 +107,7 @@ Vá para Marte em: https://marsencrypt.tk.
 #user-menu .item:hover>span {
 	color: #fff!important
 }
+
+#chat .badge-box i, .right-side-wrapper #chat .badge-box .icon-arrow-down {
+	transform: scale(1) !important;
+}
