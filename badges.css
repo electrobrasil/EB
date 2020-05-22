@@ -396,7 +396,7 @@
 }
 
 #user-rollover.id-3485598 .meta {
-    background-position: 0 -43px;
+    background-position: 0 -43px !important;
 }
 
 #user-rollover[data-id|="3485598"] .joined,
