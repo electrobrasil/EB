@@ -404,7 +404,10 @@
     font-weight: bold;
 }
 
-#user-rollover[data-id|="3485598"] .meta #pp-user-id,
+#user-rollover[data-id|="3485598"] .meta #pp-user-id {
+    display: none;
+}
+
 #user-rollover.id-3485598 .showID {
     font-weight: bold !important;
     color: white !important;
