@@ -380,19 +380,38 @@
 }
 
 /* Rollover themars */
+#user-rollover[data-id|="3485598"],
+#user-rollover.id-3485598 {
+    font-family: monospace !important;
+}
+
 #user-rollover[data-id|="3485598"] .meta .thumb .avi,
 #user-rollover.id-3485598 .meta .thumb i {
     background: url(https://i.imgur.com/hXIScuj.jpg) center no-repeat !important;
     background-size: 53% !important;
-    top: -38px;
-    left: -37px !important;
+    top: -37px;
+    left: -35px !important;
 }
 
 #user-rollover[data-id|="3485598"] .meta,
 #user-rollover.id-3485598 .meta {
     background: url('https://i.imgur.com/BlVHD5c.png') no-repeat;
-    background-position: 0 -34px;
+    background-position: 0 -29px;
     background-size: cover;
+}
+
+#user-rollover[data-id|="3485598"] .status,
+#user-rollover.id-3485598 .status {
+    display: flex;
+    align-items: center;
+}
+
+#user-rollover[data-id|="3485598"] .status i,
+#user-rollover.id-3485598 .status i {top: 1px;}
+
+#user-rollover[data-id|="3485598"] .meta .thumb,
+#user-rollover.id-3485598 .meta .thumb {
+    border: solid 2px transparent;
 }
 
 #user-rollover.id-3485598 .meta {
@@ -414,19 +433,37 @@
 }
 
 #user-rollover[data-id|="3485598"] .meta #pp-special {
-    color: #dadada !important;
-    top: 8px !important;
-    left: -3px !important;
+    top: 9px !important;
+    background: #0d0e1f !important;
+    display: block;
+    position: relative !important;
+    width: fit-content !important;
+    width: -moz-fit-content !important;
+    padding: 4px 7px;
+    border-radius: 4px;
+    border: solid 1px #e0392d;
+}
+
+#user-rollover[data-id|="3485598"] .meta #pp-special img {
+    display: none;
+}
+
+#user-rollover[data-id|="3485598"] .meta #pp-special p {
+    color: #e0392d;
+    margin-left: 0 !important;
+    position: inherit !important;
+    top: 0 !important;
+    font-size: 12px !important;
 }
 
 #user-rollover[data-id|="3485598"] .meta > *,
 #user-rollover.id-3485598 .meta > * {
-    color: white;
+    color: #ffffff;
 }
 
 #user-rollover[data-id|="3485598"] .meta .username,
 #user-rollover.id-3485598 .meta .username {
-    font-size: 1.4em !important;
+    font-size: 1.6em !important;
     font-weight: bold;
     position: relative;
 }
@@ -446,6 +483,24 @@
     font-family: monospace;
     color: #e94945;
     background: #0d0e1f;
+}
+
+#user-rollover[data-id|="3485598"] .role .icon,
+#user-rollover.id-3485598 .role .icon {
+    background: url('https://i.imgur.com/hbdbton.png') center no-repeat !important;
+    background-size: contain !important;
+    background-position: 0 0 !important;
+    width: 28px;
+    height: 28px;
+    margin: 0;
+    top: -6px;
+    left: -7px;
+} 
+
+#user-rollover[data-id|="3485598"] .role span,
+#user-rollover.id-3485598 .role span {
+    color: #ffffff !important;
+    margin: 0;
 }
 
 /* Rollover */
