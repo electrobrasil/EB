@@ -379,26 +379,29 @@
     background-size: cover!important
 }
 
-/* Rollover */
+/* Rollover themars */
 #user-rollover[data-id|="3485598"] .meta .thumb .avi,
-#user-rollover.id-348559 .meta .thumb i {
+#user-rollover.id-3485598 .meta .thumb i {
     background: url(https://i.imgur.com/hXIScuj.jpg) center no-repeat !important;
     background-size: 53% !important;
     top: -38px;
     left: -37px !important;
 }
 
-#user-rollover[data-id|="3485598"] .meta {
+#user-rollover[data-id|="3485598"] .meta,
+#user-rollover.id-3485598 .meta {
     background: url('https://i.imgur.com/BlVHD5c.png') no-repeat;
     background-position: 0 -34px;
     background-size: cover;
 }
 
-#user-rollover[data-id|="3485598"] .joined {
+#user-rollover[data-id|="3485598"] .joined,
+#user-rollover.id-3485598 .joined {
     font-weight: bold;
 }
 
-#user-rollover[data-id|="3485598"] .meta #pp-user-id {
+#user-rollover[data-id|="3485598"] .meta #pp-user-id,
+#user-rollover.id-3485598 .showID {
     display: none;
     font-weight: bold;
 }
@@ -409,18 +412,20 @@
     left: -3px !important;
 }
 
-#user-rollover[data-id|="3485598"] .meta > * {
+#user-rollover[data-id|="3485598"] .meta > *,
+#user-rollover.id-3485598 .meta > * {
     color: white;
 }
 
-#user-rollover[data-id|="3485598"] .meta .username {
+#user-rollover[data-id|="3485598"] .meta .username,
+#user-rollover.id-3485598 .meta .username {
     font-size: 1.4em !important;
     font-weight: bold;
     position: relative;
 }
 
 #user-rollover[data-id|="3485598"] .meta .username:after,
-#user-rollover.id-348559 .meta .username:after {
+#user-rollover.id-3485598 .meta .username:after {
     background-position: -11px;
     border: 1px solid #e94945;
     display: inline-block;
