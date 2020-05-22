@@ -4,8 +4,8 @@
 }
 
 #chat-messages [data-cid|="3485598"] .badge-box .bdg {
-    background: url(https://i.imgur.com/ubFOYYC.jpg)!important;
-    background-size: cover!important
+    background: url(https://i.imgur.com/hXIScuj.jpg)!important;
+    background-size: cover!important;
 }
 
 #chat-messages [data-cid|="3851724"] .badge-box .bdg {
@@ -382,8 +382,35 @@
 /* Rollover */
 #user-rollover[data-id|="3485598"] .meta .thumb .avi,
 #user-rollover.id-348559 .meta .thumb i {
-    background: url(https://i.imgur.com/ubFOYYC.jpg) center no-repeat !important;
-    background-size: 80% !important;
+    background: url(https://i.imgur.com/hXIScuj.jpg) center no-repeat !important;
+    background-size: 53% !important;
+    top: -38px;
+    left: -37px !important;
+}
+
+#user-rollover[data-id|="3485598"] .meta {
+    background: url('https://i.imgur.com/BlVHD5c.png') no-repeat;
+    background-position: 0 -37px;
+    background-size: cover;
+}
+
+#user-rollover[data-id|="3485598"] .joined {
+    font-weight: bold;
+}
+
+#user-rollover[data-id|="3485598"] .meta #pp-user-id {
+    display: none;
+    font-weight: bold;
+}
+
+#user-rollover[data-id|="3485598"] .meta #pp-special {
+    color: #dadada !important;
+    top: 8px !important;
+    left: -3px !important;
+}
+
+#user-rollover[data-id|="3485598"] .meta > * {
+    color: white;
 }
 
 #user-rollover[data-id|="3485598"] .meta .username {
@@ -394,27 +421,29 @@
 
 #user-rollover[data-id|="3485598"] .meta .username:after,
 #user-rollover.id-348559 .meta .username:after {
-    background: url('https://cdn3.iconfinder.com/data/icons/roles-computer-it/128/front-end_developer-2-512.png') no-repeat center, rgba(0, 0, 0, 0.5) center;
-    background-size: 39px;
     background-position: -11px;
-    border: 1px solid #48b148;
-    box-shadow: 0px 0px 5px #48b148;
+    border: 1px solid #e94945;
+    box-shadow: 0px 0px 5px #e94945;
     display: inline-block;
-    content: 'DEVELOPER';
+    content: 'Developer';
     font-size: 11px;
-    padding: 4px 4px 5px 23px;
-    border-radius: 3px;
-    margin-left: 4px;
+    padding: 5px 8px;
+    border-radius: 4px;
+    margin-left: 8px;
     position: relative;
-    top: -3px;
-    cursor: help;
+    top: -5px;
+    font-family: monospace;
+    color: #e94945;
+    background: #0d0e1f;
 }
 
 /* Rollover */
 #user-rollover[data-id|="4453331"] .meta .thumb .avi,
 #user-rollover.id-445333 .meta .thumb i {
     background: url(https://i.imgur.com/71U6Lp3.jpg) center no-repeat !important;
-    background-size: 55% !important;
+    background-size: 51% !important;
+    left: -37px !important;
+    top: -36px !important;
 }
 
 #user-rollover[data-id|="4453331"] .meta .username {
