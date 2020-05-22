@@ -395,6 +395,10 @@
     background-size: cover;
 }
 
+#user-rollover.id-3485598 .meta {
+    background-position: 0 -43px;
+}
+
 #user-rollover[data-id|="3485598"] .joined,
 #user-rollover.id-3485598 .joined {
     font-weight: bold;
@@ -402,8 +406,8 @@
 
 #user-rollover[data-id|="3485598"] .meta #pp-user-id,
 #user-rollover.id-3485598 .showID {
-    display: none;
-    font-weight: bold;
+    font-weight: bold !important;
+    color: white !important;
 }
 
 #user-rollover[data-id|="3485598"] .meta #pp-special {
