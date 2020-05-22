@@ -390,7 +390,7 @@
 
 #user-rollover[data-id|="3485598"] .meta {
     background: url('https://i.imgur.com/BlVHD5c.png') no-repeat;
-    background-position: 0 -37px;
+    background-position: 0 -34px;
     background-size: cover;
 }
 
@@ -423,15 +423,14 @@
 #user-rollover.id-348559 .meta .username:after {
     background-position: -11px;
     border: 1px solid #e94945;
-    box-shadow: 0px 0px 5px #e94945;
     display: inline-block;
     content: 'Developer';
     font-size: 11px;
-    padding: 5px 8px;
+    padding: 4px 8px;
     border-radius: 4px;
     margin-left: 8px;
     position: relative;
-    top: -5px;
+    top: -4px;
     font-family: monospace;
     color: #e94945;
     background: #0d0e1f;
