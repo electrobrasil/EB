@@ -645,6 +645,7 @@
 #user-rollover.id-1676070 .meta .thumb i {
     background: url(https://i.imgur.com/p7U6ojF.gif) center no-repeat !important;
     background-size: 57% !important;
+    background-position: 12px 9px !important;
 }
 
 #user-rollover[data-id|="16760700"] .meta .username {
