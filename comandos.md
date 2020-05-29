@@ -104,6 +104,9 @@ Usuario
 |Comando | Argumentos |  Descrição |
 |:------:|:---------:|:--------------------------------------:|
 |!autowoot | | coloca o link do autowoot que recomendamos |
+|!fan | @usuario | para se tornar fã de um usuario |
+|!unfan | @usuario | para deixar de ser fã de um usuario |
+|!perfil | | coloca o link do seu perfil na comunidade |
 |!ba | | explica sobre o que é um BA  |
 |!comandos | | mostra o link dos comandos |
 |!cookie| @usuario | dá um cookie para o usuario |
