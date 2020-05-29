@@ -134,3 +134,4 @@ Usuario
 |!yt | | link do canal do youtube da sala |
 |!staff | | link para inscrição para entrar na staff |
 |!gif | tag | gera um gif aleatório ou referente a tag específicada |
+|!img | link | adiciona uma imagem ao seu perfil na comunidade |
