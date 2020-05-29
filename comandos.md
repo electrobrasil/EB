@@ -13,7 +13,7 @@ Hosts
 |!roulettepos | X | define a posição que a roleta moverá o ganhador |
 |!cleardb | | limpa o banco de dados local do bot e o restaura.|
 |!apocalypse | cargo | todos os usuarios com este cargo são mutados |
-|!stopapocalypse | | para parar o apocalypse e desmutar os usuarios |
+|!stopapocalypse | | da fim ao apocalypse e desmuta os usuarios |
 
 
 
