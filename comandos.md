@@ -138,3 +138,5 @@ Usuario
 |!staff | | link para inscrição para entrar na staff |
 |!gif | tag | gera um gif aleatório ou referente a tag específicada |
 |!img | link | adiciona uma imagem ao seu perfil na comunidade |
+|!erroyt | | link para o tutorial de como resolver o erro do youtube |
+|!key | | gera uma chave de API para o youtube |
