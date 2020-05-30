@@ -666,3 +666,127 @@
     position: relative;
     top: -3px;
 }
+
+/* Rollover skyvoltz */
+#user-rollover[data-id|="3469337"],
+#user-rollover.id-3469337 {
+    font-family: monospace !important;
+}
+
+#user-rollover[data-id|="3469337"] .meta .thumb .avi,
+#user-rollover.id-3469337 .meta .thumb i {
+    background: url(https://i.imgur.com/wTPck9X.png) center no-repeat !important;
+    background-size: 53% !important;
+    top: -37px;
+    left: -35px !important;
+}
+
+#user-rollover[data-id|="3469337"] .meta,
+#user-rollover.id-3469337 .meta {
+    background: url('https://i.imgur.com/ttwiMe2.jpg') no-repeat;
+    background-position: 0 -29px;
+    background-size: cover;
+}
+
+#user-rollover[data-id|="3469337"] .status,
+#user-rollover.id-3469337 .status {
+    display: flex;
+    align-items: center;
+}
+
+#user-rollover[data-id|="3469337"] .status i,
+#user-rollover.id-3469337 .status i {top: 1px;}
+
+#user-rollover[data-id|="3469337"] .meta .thumb,
+#user-rollover.id-3469337 .meta .thumb {
+    border: solid 2px transparent;
+}
+
+#user-rollover.id-3485598 .meta {
+    background-position: 0 -43px !important;
+}
+
+#user-rollover[data-id|="3469337"] .joined,
+#user-rollover.id-3469337 .joined {
+    font-weight: bold;
+}
+
+#user-rollover[data-id|="3469337"] .meta #pp-user-id {
+    display: none;
+}
+
+#user-rollover.id-3469337 .showID {
+    font-weight: bold !important;
+    color: white !important;
+}
+
+#user-rollover[data-id|="3469337"] .meta #pp-special {
+    top: 9px !important;
+    background: #0d0e1f !important;
+    display: block;
+    position: relative !important;
+    width: fit-content !important;
+    width: -moz-fit-content !important;
+    padding: 4px 7px;
+    border-radius: 4px;
+    border: solid 1px #e0392d;
+}
+
+#user-rollover[data-id|="3469337"] .meta #pp-special img {
+    display: none;
+}
+
+#user-rollover[data-id|="3469337"] .meta #pp-special p {
+    color: #e0392d;
+    margin-left: 0 !important;
+    position: inherit !important;
+    top: 0 !important;
+    font-size: 12px !important;
+}
+
+#user-rollover[data-id|="3469337"] .meta > *,
+#user-rollover.id-3485598 .meta > * {
+    color: #ffffff;
+}
+
+#user-rollover[data-id|="3469337"] .meta .username,
+#user-rollover.id-3469337 .meta .username {
+    font-size: 1.6em !important;
+    font-weight: bold;
+    position: relative;
+}
+
+#user-rollover[data-id|="3469337"] .meta .username:after,
+#user-rollover.id-3469337 .meta .username:after {
+    background-position: -11px;
+    border: 1px solid #77dd77;
+    display: inline-block;
+    content: 'Helper';
+    font-size: 11px;
+    padding: 4px 8px;
+    border-radius: 4px;
+    margin-left: 8px;
+    position: relative;
+    top: -4px;
+    font-family: monospace;
+    color: #77dd77;
+    background: #77dd77;
+}
+
+#user-rollover[data-id|="3469337"] .role .icon,
+#user-rollover.id-3469337 .role .icon {
+    background: url('https://i.imgur.com/twpMr20.png') center no-repeat !important;
+    background-size: contain !important;
+    background-position: 0 0 !important;
+    width: 28px;
+    height: 28px;
+    margin: 0;
+    top: -6px;
+    left: -7px;
+} 
+
+#user-rollover[data-id|="3469337"] .role span,
+#user-rollover.id-3485598 .role span {
+    color: #ffffff !important;
+    margin: 0;
+}
