@@ -654,19 +654,6 @@
     position: relative;
 }
 
-#user-rollover[data-id|="16760700"] .meta .username:after,
-#user-rollover.id-1676070 .meta .username:after {
-    display: inline-block;
-    content: 'COORD DIVULGADOR';
-    font-size: 10px;
-    background: rgba(0, 0, 0, 0.54);
-    padding: 4px;
-    border-radius: 3px;
-    margin-left: 8px;
-    position: relative;
-    top: -3px;
-}
-
 /* Rollover skyvoltz */
 #user-rollover[data-id|="3469337"],
 #user-rollover.id-3469337 {
@@ -773,3 +760,15 @@
     color: #ffffff !important;
     margin: 0;
 }
+
+#user-rollover[data-id|="3469337"] .meta .username:after,
+#user-rollover.id-3469337 .meta .username:after {
+    display: inline-block;
+    content: 'ADMINISTRADOR';
+    font-size: 10px;
+    background: rgba(0, 0, 0, 0.54);
+    padding: 4px;
+    border-radius: 3px;
+    margin-left: 8px;
+    position: relative;
+    top: -3px;
