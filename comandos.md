@@ -143,5 +143,5 @@ Usuario
 |!ranks | | link dos rankings da comunidade |
 |!superwoot/!superlike | | envia uma frase aleatória elogiando o DJ |
 |!like/!top | | envia uma frase aleátoria elogiando o DJ |
-|!legal/!superlegal | | Envia uma frase aleátoria elogiando o DJ
+|!legal/!superlegal | | envia uma frase aleátoria elogiando o DJ
 
