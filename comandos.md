@@ -141,3 +141,7 @@ Usuario
 |!erroyt | | link para o tutorial de como resolver o erro do youtube |
 |!key | | gera uma chave de API para o youtube |
 |!ranks | | link dos rankings da comunidade |
+|!superwoot/!superlike | | envia uma frase aleatória elogiando o DJ |
+|!like/!top | | envia uma frase aleátoria elogiando o DJ |
+|!legal/!superlegal | | Envia uma frase aleátoria elogiando o DJ
+
