@@ -130,7 +130,6 @@ Usuario
 |!join | | entra na roleta caso ela esteja ligada |
 |!leave | | sai da roleta caso você tenha entrado |
 |!link | | quando os usuarios são dj's, poderão botar o link do video |
-|!op | | link das mais tocadas  |
 |!ping | | pong! |
 |!regras | | link das regras |
 |!site | | link do site da sala |
