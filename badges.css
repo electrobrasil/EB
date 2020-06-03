@@ -660,21 +660,6 @@
     font-family: monospace !important;
 }
 
-#user-rollover[data-id|="3469337"] .meta .thumb .avi,
-#user-rollover.id-3469337 .meta .thumb i {
-    background: url('https://i.imgur.com/V75UssJ.png') center no-repeat !important;
-    background-size: 53% !important;
-    top: -37px;
-    left: -35px !important;
-}
-
-#user-rollover[data-id|="3469337"] .meta,
-#user-rollover.id-3469337 .meta {
-    background: url('https://i.imgur.com/VsA5a1u.png') no-repeat;
-    background-position: 0 -29px;
-    background-size: cover;
-}
-
 #user-rollover[data-id|="3469337"] .status,
 #user-rollover.id-3469337 .status {
     display: flex;
