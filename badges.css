@@ -28,11 +28,6 @@
     background-size: 80px!important
 }
 
-#chat-messages [data-cid|="27782854"] .badge-box .bdg {
-    background: url(https://media.giphy.com/media/nfecRCYP9PjO/giphy.gif)!important;
-    background-size: cover!important
-}
-
 #chat-messages [data-cid|="33720502"] .badge-box .bdg {
     background: url(http://mverzaro.com.br/wp/wp-content/uploads/2012/06/dj-music-741-1.jpg)!important;
     background-size: 25px!important
