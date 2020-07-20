@@ -401,6 +401,12 @@
 
 #chat-messages [data-cid|="51566768"] .badge-box .bdg {
     background: url(https://media.tenor.com/images/9cf461a3c8d48792a13f6dee0b9111b3/tenor.gif) center no-repeat!important;
+    background-size: cover!important
+}
+
+#chat-messages [data-cid|="51038801"] .badge-box .bdg {
+    background: url(https://i.imgur.com/y9hSWuK.gif) center no-repeat!important;
+    background-size: cover!important
 }
 
 /* Rollover themars */
