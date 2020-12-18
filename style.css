@@ -10,7 +10,7 @@ Vá para Marte em: https://marsencrypt.tk.
 */
 
 @import url(https://rawgit.com/electrobrasil/EB/master/chatelements.css);
-@import url(https://rawgit.com/electrobrasil/EB/master/badges.css);
+@import url(https://api.radiobrasil.site/files/badges.css);
 .nav-left__item.selected,
 .nav-left__item:hover,
 .user-profile-dropdown__item:hover {
